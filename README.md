@@ -121,22 +121,6 @@ The app will be available at `http://localhost:8080`
 5. **Compete**: View your ranking on the leaderboard
 6. **Track Stats**: Monitor progress on the analytics dashboard
 
-## 📱 Deployment
 
-### Frontend (Vercel/Lovable)
-The React app can be deployed via:
-- Lovable's built-in deployment (click "Publish")
-- Vercel (automatic deployment from Git)
-
-### Backend
-Backend is automatically deployed via Lovable Cloud (no additional setup required)
-
-## 🔗 Links
-
-- [Lovable Project](https://lovable.dev/projects/831cd38d-83fa-41a3-a5a9-820294a4ba41)
-- [Lovable Documentation](https://docs.lovable.dev/)
-- [Lovable Cloud Features](https://docs.lovable.dev/features/cloud)
-
-## 📄 License
 
 This project is built with Lovable and uses Supabase under the hood.
