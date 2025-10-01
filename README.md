@@ -1,6 +1,6 @@
 # LifeFlow - Next-Gen Lifestyle & Productivity Platform
-
-A modern, full-stack productivity and lifestyle platform built for Gen Z and Millennials.
+website link: https://lifeflownextgen.netlify.app/
+   -A modern, full-stack productivity and lifestyle platform built for Gen Z and Millennials.
 
 ## 🚀 Features
 
